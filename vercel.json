@@ -2,7 +2,7 @@
     "routes": [
         {
             "src": "/vue-vite-nuxt-demo/(.*)",
-            "dest": "/"
+            "dest": "/vue-vite-nuxt-demo"
         }
     ]
 }
