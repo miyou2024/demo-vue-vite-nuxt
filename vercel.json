@@ -1,8 +1,0 @@
-{
-    "routes": [
-        {
-            "src": "/vue-vite-nuxt-demo/(.*)",
-            "dest": "/vue-vite-nuxt-demo"
-        }
-    ]
-}
